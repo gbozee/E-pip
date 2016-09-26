@@ -42,7 +42,7 @@ All contributions / pull-releases must have tests validating their use cases.
 
 ## Code Status
 
-[![Build Status](https://travis-ci.org/rails/rails.svg?branch=master)](https://travis-ci.org/rails/rails)
+[![Build Status](https://travis-ci.org/gbozee/E-pip.svg?branch=master)](https://travis-ci.org/gbozee/E-pip.svg?branch=master)
 
 ## License
 
