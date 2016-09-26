@@ -17,7 +17,10 @@ The library consit of 4 commands
 
 ### *init*
 This is the command that creates the project config. It determines the python version
-and sets up the virtual environment if necessary. The project config file is where all
+and sets up the virtual environment if necessary.
+it checks the version of `python` used and determines if it is already in a 
+virtual environment or not. 
+The project config file is where all
 configurations and dependencies relevant to the project are stored.
 
 
